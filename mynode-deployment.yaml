@@ -36,5 +36,5 @@ spec:
               name: mongo-config
               key: mongo-url
       imagePullSecrets:
-      - name: regcred
+      - name: regcred1
    
